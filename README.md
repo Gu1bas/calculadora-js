@@ -1,4 +1,4 @@
-# 🧮 Calculadora em JavaScript (POO)
+# Calculadora em JavaScript (POO)
 
 Uma calculadora interativa e funcional desenvolvida em JavaScript Vanilla utilizando os princípios da **Programação Orientada a Objetos (POO)** com Classes ES6, HTML5 e CSS3.
 
@@ -6,7 +6,7 @@ Uma calculadora interativa e funcional desenvolvida em JavaScript Vanilla utiliz
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - [x] **Operações Básicas:** Adição (+), Subtração (-), Multiplicação (*) e Divisão (/).
 - [x] **Visor Duplo:** Visualização em tempo real do valor atual e do histórico da operação anterior.
@@ -20,7 +20,7 @@ Uma calculadora interativa e funcional desenvolvida em JavaScript Vanilla utiliz
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5:** Estrutura da calculadora e mapeamento de botões.
 - **CSS3:** Layout moderno simulando uma calculadora real.
@@ -28,29 +28,8 @@ Uma calculadora interativa e funcional desenvolvida em JavaScript Vanilla utiliz
 
 ---
 
-## 🧠 Conceitos Praticados
+## Conceitos Praticados
 
 - **Programação Orientada a Objetos (POO):** Criação da classe `Calculator`, encapsulamento de métodos (`addDigit`, `processOperation`, `updateScreen`, etc.) e controle de estado através do `this`.
 - **Manipulação do DOM:** Seleção múltipla de botões (`querySelectorAll`), iteração com `forEach` e atualização de textos na tela (`innerText`).
 - **Conversão de Tipos e Tratamento de Strings:** Uso do operador unário `+` para conversão de strings em números, métodos de array e string como `split()`, `slice()` e validações com `includes()`.
-
----
-
-## 💻 Como Rodar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Gu1bas/calculator-js.git
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd calculator-js
-   ```
-3. Abra o arquivo `index.html` em qualquer navegador (ou use a extensão **Live Server** no VS Code).
-
----
-
-## 👤 Autor
-
-Desenvolvido por **Guilherme Cordeiro de Godoy**.
-- GitHub: [@Gu1bas](https://github.com/Gu1bas)
